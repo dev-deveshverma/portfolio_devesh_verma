@@ -3,5 +3,5 @@ export const contactsData = {
     phone: '+91 7060596109',
     address: 'Harsaon Shastri Nagar Ghaziabad',
 
-    sheetAPI: ''
+    sheetAPI: 'https://sheetdb.io/api/v1/tt5b8x0x5sbmo'
 }
