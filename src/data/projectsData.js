@@ -21,12 +21,12 @@ export const projectsData = [
     },
     {
         id: 3,
-        projectName: 'YouTube Clone',
-        projectDesc: 'YouTube Clone',
-        tags: ['Flutter'],
-        code: 'https://github.com/webdeveshverma/YouTube-Clone-use-Youtube-API',
-        demo: 'https://webdeveshverma.github.io/YouTube-Clone-use-Youtube-API/',
-        image: 'https://i.ibb.co/54PYbVw/Youtube-Clone.png'
+        projectName: 'Agoda Clone',
+        projectDesc: 'Agoda is one of the world fastest growing online travel booking platforms. From its beginnings as an e-commerce start-up based in Singapore in 2005.',
+        tags: ['RACT','REDUX','MONGODB','JSX','EXPRESS','MONGOOSE'],
+        code: 'https://github.com/shailendra7518/Agoda-clone',
+        demo: 'https://agoda-clone.vercel.app/',
+        image: 'https://i.ibb.co/5TJzyWQ/AGODA-CLONE.jpg'
     },
     {
         id: 4,
