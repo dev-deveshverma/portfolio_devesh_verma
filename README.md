@@ -1,6 +1,6 @@
 # Portfolio - Devesh Verma
 
-This is the repository for Devesh Verma's portfolio website. The portfolio showcases Devesh Verma's skills, projects, and achievements. It serves as a central hub for potential employers, clients, or collaborators to learn more about Devesh Verma's work and get in touch.
+This is the repository for my portfolio website. The portfolio showcases my skills, projects, and achievements. It serves as a central hub for potential employers, clients, or collaborators to learn more about Devesh Verma's work and get in touch.
 
 ## Live Demo
 
