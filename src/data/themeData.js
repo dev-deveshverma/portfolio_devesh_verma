@@ -6,7 +6,7 @@ import {
 
 
 export const themeData = {
-    theme:redThemeLight
+    theme:greenThemeDark
 }
 
 
