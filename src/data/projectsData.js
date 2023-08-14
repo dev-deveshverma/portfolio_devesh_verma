@@ -28,15 +28,14 @@ export const projectsData = [
         demo: 'https://agoda-clone.vercel.app/',
         image: 'https://i.ibb.co/5TJzyWQ/AGODA-CLONE.jpg'
     },
-    {
+   {
         id: 4,
-        projectName: 'Socially Shoppable',
-        projectDesc: 'This is an affiliate website where users can buy products of different brands.',
-        tags: [ "Next js"," Redis", "Javascript" , "Node js ","React js", " Express js","
-Mongo DB", "SendGrid"],
-        code: 'https://gitlab.com/Rosio12/sociallyshoppable-fe',
-        demo: 'https://ss.demo.thewebpatriot.co.in/dashboard',
-        image: 'https://i.imgur.com/rGuQWct.png'
+        projectName: 'Weather App',
+        projectDesc: 'Weather forecast systems and applications predict weather conditions based on multiple parameters.',
+        tags: ['Openweather API', 'JavaScript', 'HTML', 'CSS'],
+        code: 'https://github.com/webdeveshverma/Check-Weather-Appliction-',
+        demo: 'https://webdeveshverma.github.io/Check-Weather-Appliction-/',
+        image: 'https://i.ibb.co/C9hZWVN/Weather-app.png'
     },
    
 ]
