@@ -1,5 +1,5 @@
 import resume from '../assets/pdf/resume.pdf'
-import  Devesh  from '../jpg/profile-pic (1).png'
+import  Devesh  from '../jpg/Devesh.png'
 export const headerData = {
     name: 'Devesh Verma',
     title: "Full-Stack Web Developer",
