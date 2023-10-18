@@ -12,9 +12,8 @@ import {
     FaTwitter,
     FaLinkedin,
     FaGithub,
-    // FaYoutube,
-    // FaBlogger,
-    FaMediumM
+    FaYoutube,
+    FaBlogger,
 } from 'react-icons/fa';
 
 function Landing() {
@@ -115,7 +114,7 @@ function Landing() {
                                 />
                             </a>
                         )}
-                        {/* {socialsData.youtube && (
+                        {socialsData.youtube && (
                             <a
                                 href={socialsData.youtube}
                                 target='_blank'
@@ -127,21 +126,8 @@ function Landing() {
                                     aria-label='YouTube'
                                 />
                             </a>
-                        )} */}
-                         {socialsData.medium && (
-                                <a
-                                    href={socialsData.medium}
-                                    target='_blank'
-                                    rel='noreferrer'
-                                    className='landing--social'
-                                >
-                                    <FaMediumM
-                                     className='landing--social'
-                                     style={{ color: theme.secondary }}
-                                     aria-label='Medium' />
-                                </a>
-                            )}
-                        {/* {socialsData.blogger && (
+                        )}
+                        {socialsData.blogger && (
                             <a
                                 href={socialsData.blogger}
                                 target='_blank'
@@ -153,7 +139,7 @@ function Landing() {
                                     aria-label='Blogger'
                                 />
                             </a>
-                        )} */}
+                        )}
                     </div>
                 </div>
                 <img
@@ -181,7 +167,7 @@ function Landing() {
                             {headerData.resumePdf && (
                                 <a
                                     href={headerData.resumePdf}
-                                    download='resume'
+                                    download='resume devesh verma'
                                     target='_blank'
                                     rel='noreferrer'
                                 >

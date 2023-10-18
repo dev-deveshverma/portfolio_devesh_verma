@@ -9,7 +9,6 @@ import css from '../assets/svg/skills/css.svg'
 import angular from '../assets/svg/skills/angular.svg'
 import javascript from '../assets/svg/skills/javascript.svg'
 import nextJS from '../assets/svg/skills/nextJS.svg'
-import nodeJS from '../assets/svg/skills/nodeJS.svg'
 import nuxtJS from '../assets/svg/skills/nuxtJS.svg'
 import react from '../assets/svg/skills/react.svg'
 import svelte from '../assets/svg/skills/svelte.svg'
@@ -77,7 +76,6 @@ import wolframalpha from '../assets/svg/skills/wolframalpha.svg'
 import canva from '../assets/svg/skills/canva.svg'
 
 
-
 export const skillsImage = (skill) => {
     const skillID = skill.toLowerCase();
     switch (skillID) {
@@ -103,8 +101,6 @@ export const skillsImage = (skill) => {
             return javascript;
         case 'next js':
             return nextJS;
-        case 'node js':
-            return nodeJS;
         case 'nuxt js':
             return nuxtJS;
         case 'react':
@@ -231,7 +227,6 @@ export const skillsImage = (skill) => {
             return wolframalpha;
         case 'canva':
             return canva;
-        
         default:
             break;
     }

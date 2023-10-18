@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name's Devesh Verma. I'm a Full-Stack Web Developer from Ghaziabad, Utter Pradesh.",
-    description2: "I believe that the power of technology can make people's lives easier and that new frameworks and technology make developers more productive to the tech community. Learning HTML CSS and JavaScript from my Diploma journey, piqued my interest in coding. Since then my life has been about pursuing a career in coding and web development.",
+    description1: "My name is Devesh Verma ",
+    description2: "As a Full-stack Developer at TheWebPatriot, I create innovative and user-friendly websites and applications for various clients, using MERN Stack, a combination of MongoDB, Express, React, and Node.js. I have been working there for over a year and have built several web projects, such as a social media platform, an e-commerce site, and a blog site, with features like authentication, payment integration, and dynamic rendering.",
     image: 1
 }
