@@ -9,6 +9,27 @@ import eight from '../assets/svg/projects/eight.svg'
 
 
 export const projectsData = [
+
+
+
+    {
+        id: 2,
+        projectName: 'MARRIOTT BONOY CLONE',
+        projectDesc: 'It is a web application to book hotels.',
+        tags: ['HTML', 'CSS', 'JavaScript'],
+        code: 'https://github.com/webdeveshverma/Marriott_Bonvoy_clone.github.io',
+        demo: 'https://personal-iota-flame.vercel.app/',
+        image: 'https://i.ibb.co/HrWfTyr/Marriott.png'
+    },
+    {
+        id: 3,
+        projectName: 'Agoda Clone',
+        projectDesc: 'Agoda is one of the world fastest growing online travel booking platforms. From its beginnings as an e-commerce start-up based in Singapore in 2005.',
+        tags: ['RACT','REDUX','MONGODB','JSX','EXPRESS','MONGOOSE'],
+        code: 'https://github.com/shailendra7518/Agoda-clone',
+        demo: 'https://agoda-clone.vercel.app/',
+        image: 'https://i.ibb.co/5TJzyWQ/AGODA-CLONE.jpg'
+    },
     {
         id: 1,
         projectName: 'Employee Management',

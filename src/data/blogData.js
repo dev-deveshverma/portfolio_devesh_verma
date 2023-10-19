@@ -1,27 +1,27 @@
 export const blogData = [
     {
         id: 1,
-        title: 'SCRAPING BILLBOARD AND IMDB USING PYTHON SELENIUM',
-        description: 'Here we will use Selenium to navigate between web pages, and try to scrape data from them.',
-        date: 'Aug 7, 2020',
-        image: 'https://1.bp.blogspot.com/-6vZQoWcIZeo/Xvw5ZD5Y53I/AAAAAAAABgI/GH2b5OuMaXAKuigK4diBbeYDW6dD3qVvgCK4BGAsYHg/w400-h225/selenium.jpg',
-        url: 'https://hackzism.blogspot.com/2020/07/scraping-billboard-and-imdb-using.html'
+        title: 'Hello Reader, Hope you are keeping safe this is my first imagine story_',
+        description: 'This is the toy that gives me a kiss and happens. I want to play in the garden. I never want to lose a smaller toy. I want to this is always with me never leave me alone.',
+        date: 'Feb 27, 2022',
+        image: 'https://i.ibb.co/WsSdXt7/blog1.png',
+        url: 'https://medium.com/@webdeveshverma/hello-reader-hope-you-are-keeping-safe-this-is-my-first-imagine-story-151333724c09'
     },
     {
         id: 2,
-        title: 'CHECK WEATHER FROM TERMINAL USING WTTR.IN',
-        description: 'wttr.in is a console-oriented weather forecast service that supports various information representation methods like ANSI-sequences for console HTTP clients, HTML, or PNG.',
-        date: 'Aug 11, 2020',
-        image: 'https://1.bp.blogspot.com/-OW7jX57tea4/XvnGxuEOslI/AAAAAAAABW0/R8lVT1AXDSwnvE0EGA9Ra49-LDm1ACwDgCK4BGAsYHg/s1216/wttr1.png',
-        url: 'https://hackzism.blogspot.com/2020/06/check-weather-from-terminal-using-wttrin.html'
+        title: 'Skills vs Degrees',
+        description: 'Degree and skill are two sides of the same coin. To succeed in the race of life, a person needs to have a degree along with the skill.',
+        date: 'Feb 27, 2022',
+        image: 'https://i.ibb.co/Cbg4qfV/Blog2.png',
+        url: 'hhttps://medium.com/@webdeveshverma/skills-vs-degrees-9f24c882f23b'
     },
     {
         id: 3,
-        title: 'BEING ANONYMOUS: A BEGINNERS GUIDE',
-        description: 'Here are some basic ways to lay off the Radar',
-        date: 'Aug 14, 2020',
-        image: 'https://1.bp.blogspot.com/-GR19yCNbKCE/XuRcKEfKvhI/AAAAAAAAAwY/srFWw5pOpzMibeJb__SmgZpx9dIpNNWqgCK4BGAsYHg/w640-h426/anonymous1.jpg',
-        url: 'https://hackzism.blogspot.com/2020/06/being-anonymous-beginners-guide.html'
+        title: 'Clone of Marriott Bonvoy',
+        description: 'Firstly as a team, we would like to express how grateful we are to Masai School for giving us this wonderful opportunity to learn under their guidance and for sharing our project experience which we had done remotely.',
+        date: 'March 19, 2022',
+        image: 'https://i.ibb.co/qjby6Yc/Blog3.png',
+        url: 'hhttps://medium.com/@webdeveshverma/skills-vs-degrees-9f24c882f23b'
     },
     {
         id: 4,
