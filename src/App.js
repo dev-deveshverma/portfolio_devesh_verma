@@ -5,12 +5,15 @@ import { ThemeContext } from './contexts/ThemeContext';
 import { Main, BlogPage, ProjectPage } from './pages'
 import { BackToTop } from './components'
 import ScrollToTop from './utils/ScrollToTop'
+import ReactGA  from 'react-ga'
 
 import './App.css'
 
 function App() {
 
   const { theme } = useContext(ThemeContext);
+  const Tracking_Id= "G-BQ2TJFZ2Y5"
+  ReactGA.initialize(Tracking_Id);
 
   console.log("%cDEVELOPER PORTFOLIO", `color:${theme.primary}; font-size:50px`);
   console.log("%chttps://github.com/hhhrrrttt222111/developer-portfolio", `color:${theme.tertiary}; font-size:20px`);
