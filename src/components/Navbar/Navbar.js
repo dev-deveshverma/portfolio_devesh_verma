@@ -14,6 +14,11 @@ import './Navbar.css';
 import { headerData } from '../../data/headerData';
 import { ThemeContext } from '../../contexts/ThemeContext';
 
+/**
+ * The `Navbar` function is a React component that renders a navigation bar with a responsive drawer
+ * menu.
+ * @returns The Navbar component is returning a JSX element.
+ */
 function Navbar() {
     const { theme, setHandleDrawer } = useContext(ThemeContext);
 
