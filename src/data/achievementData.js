@@ -1,4 +1,4 @@
-export const achievementData = {
+// export const achievementData = {
   // bio: "I am a full stack web developer. I have completed my graduation from the department of Computer Science and Engineering. I have a passion for web development and love to create web applications. I am a quick learner and always eager to learn new technologies. I am a hard-working person and always try to give my best effort to complete any task. I am a team player and love to work with a team. I am a self-motivated person and always try to motivate others.",
   // achievements: [
   //   {
@@ -27,16 +27,15 @@ export const achievementData = {
   //     image: "https://i.ibb.co/42zMsYX/Capture.png",
   //   },
   // ],
-};
+// };
 
 // Do not remove any fields.
 // Leave it blank instead as shown below.
 
-/*
 
-// export const achievementData = {
-//     bio : "",
-//     achievements : []
-// }
 
-*/
+export const achievementData = {
+    bio : "",
+    achievements : []
+}
+
