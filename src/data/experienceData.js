@@ -4,14 +4,14 @@ export const experienceData = [
         company: 'TheWebPatriot',
         jobtitle: 'Full Stack Developer (MERN Stack)',
         startYear: 'Oct 2022',
-        endYear: 'Present'
+        endYear: 'Jan 2024'
     },
     {
         id: 2,
         company: 'Masai School',
         jobtitle: 'Full Stack Developer (MERN Stack)',
-        startYear: 'Oct 2022',
-        endYear: 'Oct 2021'
+        startYear: 'Oct 2021',
+        endYear: 'Sep 2022'
     },
     
 ]
