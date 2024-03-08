@@ -14,12 +14,12 @@ export const projectsData = [
 
     {
         id: 2,
-        projectName: 'MARRIOTT BONOY CLONE',
-        projectDesc: 'It is a web application to book hotels.',
-        tags: ['HTML', 'CSS', 'JavaScript'],
-        code: 'https://github.com/webdeveshverma/Marriott_Bonvoy_clone.github.io',
-        demo: 'https://personal-iota-flame.vercel.app/',
-        image: 'https://i.ibb.co/HrWfTyr/Marriott.png'
+        projectName: 'Socially Shoppable',
+        projectDesc: 'This is an affiliate website where users can buy products of different brands.',
+        tags: ['RACT','REDUX','MONGODB','JSX','EXPRESS','MONGOOSE'],
+        code: '#',
+        demo: 'https://ss.demo.thewebpatriot.co.in/',
+        image: 'https://i.ibb.co/s9zkvsG/ss.png'
     },
     {
         id: 3,
@@ -33,11 +33,11 @@ export const projectsData = [
     {
         id: 1,
         projectName: 'CAD BULL',
-        projectDesc: 'This project aims to build an employee management system that consolidates all information of a company',
-        tags: ['React', 'CSS', 'Material Ui'],
-        code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-        image: one
+        projectDesc: '2D Cad Library, Cad Blocks, Autocad Blocks Furniture, Architecture-Interiors design-Construction floor plan and detail in autocad dwg format.',
+        tags: ['React', 'CSS', 'Material Ui', 'Node Js'],
+        code: '',
+        demo: 'https://cadbull.com/',
+        image: 'https://i.ibb.co/GR7njjC/cadbull.png'
     },
     // {
     //     id: 2,
